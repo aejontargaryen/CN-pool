@@ -107,6 +107,9 @@ Community / Support
 * https://bytecoin.pt
 * http://ita.minexmr24.ru/
 * https://pool.croatpirineus.cat
+* https://crypto9coin.cf/DRGL
+* https://mine.DRGL.online
+
 
 Usage
 ===
