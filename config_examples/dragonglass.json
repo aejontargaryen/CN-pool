@@ -9,7 +9,7 @@
 
     "daemonType": "default",
     "cnAlgorithm": "cryptonight",
-    "cnVariant": 1,
+    "cnVariant": 8,
     "cnBlobType": 2,
 
     "logging": {
@@ -37,17 +37,17 @@
         "ports": [
             {
                 "port": 3333,
-                "difficulty": 5000,
+                "difficulty": 800,
                 "desc": "Low end hardware"
             },
             {
                 "port": 4444,
-                "difficulty": 15000,
+                "difficulty": 18000,
                 "desc": "Mid range hardware"
             },
             {
                 "port": 5555,
-                "difficulty": 25000,
+                "difficulty": 80000,
                 "desc": "High end hardware"
             },
             {
