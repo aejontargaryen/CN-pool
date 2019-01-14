@@ -1,7 +1,7 @@
 {
     "poolHost": "yourpool.host",
 
-    "coin": "DRAGONGLASS",
+    "coin": "Dragonglass",
     "symbol": "DRGL",
     "coinUnits": 10000000,
     "coinDecimalPlaces": 7,
@@ -9,7 +9,7 @@
 
     "daemonType": "default",
     "cnAlgorithm": "cryptonight",
-    "cnVariant": 1,
+    "cnVariant": 8,
     "cnBlobType": 2,
 
     "logging": {
