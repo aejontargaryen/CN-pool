@@ -7,7 +7,7 @@
     "coinDecimalPlaces": 7,
     "coinDifficultyTarget": 81,
 
-    "daemonType": "bytecoin",
+    "daemonType": "default",
     "cnAlgorithm": "cryptonight",
     "cnVariant": 8,
     "cnBlobType": 2,
