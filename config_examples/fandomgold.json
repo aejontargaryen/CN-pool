@@ -1,11 +1,11 @@
 {
     "poolHost": "yourpool.host",
 
-    "coin": "DRAGONGLASS",
-    "symbol": "DRGL",
+    "coin": "FANGO",
+    "symbol": "XFG",
     "coinUnits": 10000000,
     "coinDecimalPlaces": 7,
-    "coinDifficultyTarget": 81,
+    "coinDifficultyTarget": 480,
 
     "daemonType": "default",
     "cnAlgorithm": "cryptonight",
@@ -27,7 +27,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "dRGL....",
+        "poolAddress": "fango....",
         "intAddressPrefix": 251,
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
@@ -108,7 +108,7 @@
         "enabled": true,
         "interval": 60,
         "maxAddresses": 50,
-        "mixin": 1,
+        "mixin": 2,
         "priority": 0,
         "transferFee": 800000,
         "dynamicTransferFee": true,
